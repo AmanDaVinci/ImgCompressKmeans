@@ -1,2 +1,2 @@
 # ImgCompressKmeans
-Image compression with K-means algorithm by grouping pixels into common colors 
+Image compression with K-means Clustering by reducing the number of colors used to the most common ones in the image
